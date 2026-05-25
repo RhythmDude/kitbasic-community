@@ -1,9 +1,12 @@
 @font-face {
     font-family: 'bpdots';
-    src: url('/bpdots.otf') format('opentype');
+    src: url('fonts/bpdots.otf') format('opentype');
 }
 
 body {
     font-family: 'bpdots', sans-serif;
     place-items: center;
+    display: grid;
+    height: 100vh;
+    margin: o;
 }
