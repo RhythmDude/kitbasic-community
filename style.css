@@ -2,13 +2,3 @@
     font-family: 'bpdots';
     src: url('fonts/bpdots.otf') format('opentype');
 }
-
-body {
-    background-color: black;
-    color: white;
-    font-family: 'bpdots', sans-serif;
-    place-items: center;
-    display: grid;
-    height: 100vh;
-    margin: o;
-}
