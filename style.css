@@ -4,9 +4,6 @@
 }
 
 body {
-    font-family: 'bpdots';
-}
-
-.mainbutton {
-    
+    font-family: 'bpdots', sans-serif;
+    place-items: center;
 }
