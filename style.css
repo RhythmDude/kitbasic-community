@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdots';
+    src: url('/bpdots.otf') format('opentype');
+}
+
+body {
+    font-family: 'bpdots';
+}
+
+.mainbutton {
+    
+}
